@@ -36,7 +36,13 @@
   form .input-field {
     margin-top: 30px;
   }
-  
+ #Offline {
+  font-size:20px;
+  margin-bottom: 25px;
+ }
+  #Off {
+    margin-bottom: 25px;
+  }
 /*RECIPE LAYOUT FOR EACH COFFEE RECIPE CARD PAGE*/
   @import url('https://fonts.googleapis.com/css?family=PT Serif');
 
